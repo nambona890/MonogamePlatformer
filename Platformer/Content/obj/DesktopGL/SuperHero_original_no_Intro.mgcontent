@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>L:/Platfomer/Platformer/Content/SuperHero_original_no_Intro.ogg</SourceFile>
+  <SourceTime>2018-04-03T17:05:36.7585119+10:00</SourceTime>
+  <DestFile>L:/Platfomer/Platformer/Content/bin/DesktopGL/SuperHero_original_no_Intro.xnb</DestFile>
+  <DestTime>2018-04-03T17:05:59.5847985+10:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2017-03-02T02:05:36+11:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-02T02:05:36+11:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>L:/Platfomer/Platformer/Content/bin/DesktopGL/SuperHero_original_no_Intro.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

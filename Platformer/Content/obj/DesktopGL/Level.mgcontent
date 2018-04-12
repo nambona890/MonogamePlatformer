@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>L:/Platfomer/Platformer/Content/Level.tmx</SourceFile>
+  <SourceTime>2018-04-12T17:25:45.9129057+10:00</SourceTime>
+  <DestFile>L:/Platfomer/Platformer/Content/bin/DesktopGL/Level.xnb</DestFile>
+  <DestTime>2018-04-12T17:25:48.3359367+10:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2017-12-11T04:41:22+11:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2017-12-11T04:41:22+11:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
